@@ -99,6 +99,17 @@ Le projet est structuré autour de **plusieurs pages principales**, chacune ayan
 
 #### Mock-Ups
 
-![](./docs/mockup1.png)
-![](./docs/mockup2.png)
-![](./docs/mockup3.png)
+**Landing Page**
+
+![](./docs/landingPage.png)
+
+**Page de Produits**
+
+![](./docs/productsPageVanilla.png)
+![](./docs/productsPageOpenItem.png)
+
+**Page de Configurateur**
+
+![](./docs/configPageVanilla.png)
+![](./docs/configPageOpenItem.png)
+![](./docs/configPageOpenCart.png)
